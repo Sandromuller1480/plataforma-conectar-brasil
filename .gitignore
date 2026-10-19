@@ -4,4 +4,6 @@ tmp
 .vite
 .DS_Store
 *.local
+*.tsbuildinfo
+vite.config.js
 npm-debug.log*
