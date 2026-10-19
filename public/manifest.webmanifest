@@ -1,0 +1,12 @@
+{
+  "name": "Conectar Brasil Demo",
+  "short_name": "Conectar",
+  "start_url": "/app/inicio",
+  "display": "standalone",
+  "background_color": "#14170e",
+  "theme_color": "#14170e",
+  "description": "Experiência demonstrativa do cliente Conectar Brasil.",
+  "icons": [
+    { "src": "/assets/brand/icone-conectar.png", "sizes": "any", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
